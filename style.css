@@ -1,9 +1,9 @@
 
-body, html {
+html {
     height: 100%;
 }
 
-.bg {
+body {
     background-image: url("tick1.png");
     height: 100%;
     background-position: center;
