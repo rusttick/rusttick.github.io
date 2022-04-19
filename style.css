@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-image: url("tick1.png");
+    background-image: url("tick1.svg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
